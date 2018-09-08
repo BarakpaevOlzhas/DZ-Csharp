@@ -1,0 +1,6 @@
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\bin\Debug\TypePerson.dll
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\bin\Debug\TypePerson.pdb
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\obj\Debug\TypePerson.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\obj\Debug\TypePerson.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\obj\Debug\TypePerson.dll
+C:\Users\User\source\repos\NameSpaeceHomeWork\TypePerson\obj\Debug\TypePerson.pdb

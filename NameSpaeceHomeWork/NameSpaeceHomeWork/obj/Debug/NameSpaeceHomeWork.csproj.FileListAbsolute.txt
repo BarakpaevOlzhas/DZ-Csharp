@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\bin\Debug\NameSpaeceHomeWork.exe.config
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\bin\Debug\NameSpaeceHomeWork.exe
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\bin\Debug\NameSpaeceHomeWork.pdb
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\bin\Debug\TypePerson.dll
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\bin\Debug\TypePerson.pdb
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\obj\Debug\NameSpaeceHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\obj\Debug\NameSpaeceHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\obj\Debug\NameSpaeceHomeWork.exe
+C:\Users\User\source\repos\NameSpaeceHomeWork\NameSpaeceHomeWork\obj\Debug\NameSpaeceHomeWork.pdb
