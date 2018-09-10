@@ -1,0 +1,10 @@
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\bin\Debug\Сollections.exe.config
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\bin\Debug\Сollections.exe
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\bin\Debug\Сollections.pdb
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\bin\Debug\ClassLibrary1.dll
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\bin\Debug\ClassLibrary1.pdb
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\obj\Debug\Сollections.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\obj\Debug\Сollections.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\obj\Debug\Сollections.csproj.CopyComplete
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\obj\Debug\Сollections.exe
+C:\Users\БаракпаевО\source\repos\Сollections\Сollections\obj\Debug\Сollections.pdb
