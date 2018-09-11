@@ -1,0 +1,6 @@
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\bin\Debug\MArray.dll
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\bin\Debug\MArray.pdb
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\obj\Debug\MArray.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\obj\Debug\MArray.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\obj\Debug\MArray.dll
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\MArray\obj\Debug\MArray.pdb

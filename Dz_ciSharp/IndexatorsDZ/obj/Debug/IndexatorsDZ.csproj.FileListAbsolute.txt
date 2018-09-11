@@ -1,0 +1,10 @@
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\bin\Debug\IndexatorsDZ.exe.config
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\bin\Debug\IndexatorsDZ.exe
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\bin\Debug\IndexatorsDZ.pdb
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\bin\Debug\MArray.dll
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\bin\Debug\MArray.pdb
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\obj\Debug\IndexatorsDZ.csprojAssemblyReference.cache
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\obj\Debug\IndexatorsDZ.csproj.CoreCompileInputs.cache
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\obj\Debug\IndexatorsDZ.csproj.CopyComplete
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\obj\Debug\IndexatorsDZ.exe
+C:\Users\БаракпаевО\source\repos\IndexatorsDZ\IndexatorsDZ\obj\Debug\IndexatorsDZ.pdb
