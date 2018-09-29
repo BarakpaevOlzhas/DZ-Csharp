@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\bin\Debug\Day7(Tanks).exe.config
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\bin\Debug\Day7(Tanks).exe
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\bin\Debug\Day7(Tanks).pdb
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\bin\Debug\MyClassLib.dll
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\bin\Debug\MyClassLib.pdb
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\obj\Debug\Day7(Tanks).csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\obj\Debug\Day7(Tanks).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\obj\Debug\Day7(Tanks).exe
+C:\Users\User\source\repos\Day7(Tanks)\Day7(Tanks)\obj\Debug\Day7(Tanks).pdb
